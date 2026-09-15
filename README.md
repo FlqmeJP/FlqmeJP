@@ -2,7 +2,7 @@
 
 <h1>Azi3i</h1>
 
-<p><b>Network Design @ Osaka Institute of Technology</b><br/>
+<p><b>Network Design</b><br/>
 Metaheuristics × IoT Intrusion Detection / Security / ML</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yu-lab7&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
